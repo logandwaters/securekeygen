@@ -1,6 +1,6 @@
-# Crypto Key Generator
+# Secure Key Gen
 
-The Crypto Key Generator is a lightweight and secure application that generates cryptographic keys and initialization vectors (IVs) locally on your device. It does not log any interactions, ensuring user privacy and security. Built using the Tkinter framework, the app provides a user-friendly interface for generating keys suitable for encryption and decryption tasks in various applications.
+Secure Key Gen is a lightweight and secure application that generates cryptographic keys and initialization vectors (IVs) locally on your device. It does not log any interactions, ensuring user privacy and security. Built using the Tkinter framework, the app provides a user-friendly interface for generating keys suitable for encryption and decryption tasks in various applications.
 
 ### Main Screen
 ![Main Screen](screenshots/main_screen.png)
