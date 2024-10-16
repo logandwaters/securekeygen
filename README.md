@@ -2,6 +2,9 @@
 
 The Crypto Key Generator is a lightweight and secure application that generates cryptographic keys and initialization vectors (IVs) locally on your device. It does not log any interactions, ensuring user privacy and security. Built using the Tkinter framework, the app provides a user-friendly interface for generating keys suitable for encryption and decryption tasks in various applications.
 
+### Main Screen
+![Main Screen](screenshots/main_screen.png)
+
 ## Key Features
 - **Local Generation:** Keys are generated using the `secrets` library, which provides strong random number generation suitable for cryptographic use. The application does not log any user interactions, ensuring that your key generation process remains private.
 - **User-Friendly Interface:** Built with the Tkinter framework, the application offers a clean and intuitive interface that allows users to generate keys effortlessly.
@@ -33,7 +36,7 @@ By using the Crypto Key Generator, users can confidently generate the keys they 
    - Double-click the `securekeygen.exe` file to launch the application. 
 
 2. **Generate the Key**:
-   - After entering the required information, click on the "Generate Key" button to create the keys.
+   - Click on the "Generate Key" button to create the keys.
 
 3. **Copy or Save the Key**:
    - Once the key is generated, you will see it displayed on the screen.
@@ -41,6 +44,9 @@ By using the Crypto Key Generator, users can confidently generate the keys they 
 
 4. **Exit the Application**:
    - Once you are done, you can close the application by simply closing the window.
+
+### Example Key Generation
+![Key Generation Example](screenshots/key_generation_example.png)
 
 ## Contributing
 
