@@ -21,3 +21,31 @@ The Crypto Key Generator prioritizes user security. By running the application l
 - **Cross-Platform Compatibility:** Being built with Python and Tkinter, the application is compatible with various operating systems, including Windows, macOS, and Linux.
 
 By using the Crypto Key Generator, users can confidently generate the keys they need while ensuring that their cryptographic practices remain secure and private.
+
+## Installation
+
+1. Download the `securekeygen.exe` file from the [Releases](https://github.com/logandwaters/securekeygen/releases) section of this repository.
+2. Ensure you have the necessary permissions to run executables on your machine.
+
+## Instructions to Use the Application
+
+1. **Run the Application**:
+   - Double-click the `securekeygen.exe` file to launch the application. 
+
+2. **Generate the Key**:
+   - After entering the required information, click on the "Generate Key" button to create the keys.
+
+3. **Copy or Save the Key**:
+   - Once the key is generated, you will see it displayed on the screen.
+   - You can either copy the key to your clipboard or save it to a file as needed.
+
+4. **Exit the Application**:
+   - Once you are done, you can close the application by simply closing the window.
+
+## Contributing
+
+Contributions are welcome! Please feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
